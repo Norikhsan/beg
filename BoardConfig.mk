@@ -129,7 +129,6 @@ TW_INCLUDE_FBE_METADATA_DECRYPT := true
 # TWRP Configuration
 TW_FRAMERATE := 60
 TW_THEME := portrait_hdpi
-TW_LOAD_VENDOR_MODULES := "haptic.ko"
 TW_EXTRA_LANGUAGES := true
 TW_BACKUP_EXCLUSIONS := /data/fonts
 TW_INPUT_BLACKLIST := "hbtp_vm"
