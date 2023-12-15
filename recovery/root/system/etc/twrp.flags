@@ -16,7 +16,7 @@
 /nvram            emmc     /dev/block/platform/bootdevice/by-name/nvram        flags=backup=1;display="NVram"
 /protect_f        ext4     /dev/block/platform/bootdevice/by-name/protect1     flags=backup=1;display="Protect_f"
 /protect_s        ext4     /dev/block/platform/bootdevice/by-name/protect2     flags=backup=1;display="Protect_s"
-/proinfo        ext4     /dev/block/platform/bootdevice/by-name/proinfo     flags=backup=1;display="Proinfo"
+/proinfo          ext4     /dev/block/platform/bootdevice/by-name/proinfo      flags=backup=1;display="Proinfo"
 
 /metadata         ext4     /dev/block/platform/bootdevice/by-name/metadata     flags=backup=1;display="Metadata"
 /persist          ext4     /dev/block/platform/bootdevice/by-name/persist      flags=backup=1;display="Persist"
