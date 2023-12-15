@@ -1,4 +1,4 @@
-Device configuration for Redmi Note 8 Pro (begonia)
+Device configuration for RN8 Pro (begunia)
 ===================================================
 
 The Redmi Note 8 Pro (codenamed _"begonia"_) is a high-end, mid-range smartphone from Xiaomi.
