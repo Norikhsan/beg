@@ -10,17 +10,6 @@ DEVICE_PATH := device/xiaomi/begonia
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
-# A/B
-AB_OTA_UPDATER := true
-AB_OTA_PARTITIONS += \
-    system \
-    vendor \
-    product \
-    recovery \
-    boot \
-    vbmeta_vendor \
-    vbmeta_system
-
 # Architecture
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-2a-dotprod
